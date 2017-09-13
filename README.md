@@ -11,6 +11,6 @@ Uses React 16 rc 2 !
 
 cd into project directory ReactParkDemo
 
-# run webpack on command line , this should build the react bundle for the app and place in /dist directory
+# run <code>webpack</code> on command line , this should build the react bundle for the app and place in Scripts/dist directory
 
 # start up project with F5 , should start web browser and display message from react component
