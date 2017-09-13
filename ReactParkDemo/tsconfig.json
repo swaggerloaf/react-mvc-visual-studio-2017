@@ -16,7 +16,6 @@
     "types": [
         "react",
         "react-dom",
-        "react-redux",
-        "hammerjs"
+        "react-redux"
    ]
 }
