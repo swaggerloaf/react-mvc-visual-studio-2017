@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "outDir": "./jsbin/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module":"commonjs",
+        "target": "es5",
+        "jsx": "react"
+    },
+  "include": [
+    "./src/**/*"
+  ],
+    "typeRoots": [
+        "./node_modules/@types"
+    ],
+    "types": [
+        "react",
+        "react-dom",
+        "react-redux",
+        "hammerjs"
+   ]
+}
