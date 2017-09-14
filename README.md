@@ -7,9 +7,9 @@ Uses React 16 rc 2 !
 # Install git on your machine, you'll need it to clone the git repository
 
 # clone the repository
-# <code>git clone https://github.com/swaggerloaf/react-mvc-visual-studio-2017.git</code>
-# <code>npm i -g webpack</code> on your machine
-# <code>npm i -g typescript</code> as well
+<code>git clone https://github.com/swaggerloaf/react-mvc-visual-studio-2017.git</code>
+<code>npm i -g webpack</code> on your machine
+<code>npm i -g typescript</code> as well
 It doesn't hurt to have these installed globally on the machine
 
 # restore nuget packages for the project
