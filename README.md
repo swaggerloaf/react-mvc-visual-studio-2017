@@ -21,4 +21,4 @@ cd into project directory ReactParkDemo
 
 # start up project with F5 , should start web browser and display message from react component
 
-You can make changes to react code, run <code>webpack</code> at the command line to rebuild react bundle
+You can make changes to react code, run <code>webpack</code> at the command line in project level directory to rebuild react bundle
