@@ -3,6 +3,7 @@ A starter project for Visual Studio 2017 with ASP.NET MVC and react
 Uses vs 2017 release 15.3
 Uses React 16 rc 2 !
 
+# I'm using Visual Studio version 15.3.4, the latest updates
 # Install nodejs on your machine , I used latest stable
 # Install git on your machine, you'll need it to clone the git repository
 

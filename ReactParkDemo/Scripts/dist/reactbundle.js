@@ -20684,7 +20684,6 @@ var __extends = (this && this.__extends) || (function () {
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(3);
-// 'HelloProps' describes the shape of props.
 // State is never set so we use the 'undefined' type.
 var App = /** @class */ (function (_super) {
     __extends(App, _super);
