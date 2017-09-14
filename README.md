@@ -8,9 +8,11 @@ Uses React 16 rc 2 !
 
 # clone the repository
 <code>git clone https://github.com/swaggerloaf/react-mvc-visual-studio-2017.git</code>
-<code>npm i -g webpack</code> on your machine
-<code>npm i -g typescript</code> as well
+# <code>npm i -g webpack</code> on your machine
+# <code>npm i -g typescript</code> as well
 It doesn't hurt to have these installed globally on the machine
+
+# Open solution with vs 2017
 
 # restore nuget packages for the project
 # npm should download needed nodejs packages automatically, so monitor that
